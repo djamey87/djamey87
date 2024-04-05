@@ -19,12 +19,11 @@ Here are some ideas to get you started:
 
 
 ## I'm a Developer, Creator, and Mentor!!
-- ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on __
-- 🌱 I’m currently learning __
+<!--- ✍ You can find my projects here [portfolio] -->
+- 🔭 I’m currently working with Simple Online Healthcare
+- 🌱 I’m currently learning about product management
 - 👯 I’m looking to collaborate on open-source
 - 💬 Ask me about ... Anything
-- 😄 Pronouns: He/Him
 
 
 ### Talk with me, I am kinda awesome:
