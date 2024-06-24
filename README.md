@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ## I'm a Developer, Creator, and Mentor!!
 <!--- ✍ You can find my projects here [portfolio] -->
-- 🔭 I’m currently working with Simple Online Healthcare
-- 🌱 I’m currently learning about product management
-- 👯 I’m looking to collaborate on open-source
+- 🔭 I’m currently looking for work
+- 🌱 I’m always learning about product delivery and exploring new and existing tech
+- 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about ... Anything
 
 
